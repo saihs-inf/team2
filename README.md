@@ -26,6 +26,9 @@ Slack 是一套團體之間的「溝通平台」，與大家常用的 LINE 聊�
 
 比如說 WhatsApp, LINE, FB Messenger......等。
 
+## Messenger 
+* 可跟其他程式同時執行
+
 ## Trello
 
 ![Trello](http://i.imgur.com/IWE5zoA.png)
