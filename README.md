@@ -51,4 +51,4 @@ Trello 是一套簡單的專案管理平台，使用便利貼 (card) 的方式�
 
 ![HackMD](http://i.imgur.com/fDJDRkD.png)
 
-使用 markdown 做共筆及投影片。
+使用 markdown 做共筆及投影片。我好帥
